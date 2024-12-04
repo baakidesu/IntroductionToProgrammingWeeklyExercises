@@ -1,0 +1,3 @@
+C:/Users/Burki/CLionProjects/IntroductionToProgrammingWeeklyExercises/cmake-build-debug/CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir
+C:/Users/Burki/CLionProjects/IntroductionToProgrammingWeeklyExercises/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Burki/CLionProjects/IntroductionToProgrammingWeeklyExercises/cmake-build-debug/CMakeFiles/rebuild_cache.dir

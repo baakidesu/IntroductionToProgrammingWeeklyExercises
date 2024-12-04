@@ -1,0 +1,10 @@
+# ninja log v6
+1	286	7550502821451351	build.ninja	bc30250f4b0f7822
+32	357	7550486909188599	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week10/Exercise1.cpp.obj	86a8ae8e9b221a20
+15	78	7550490057072659	IntroductionToProgrammingWeeklyExercises.exe	f264ab572587dba0
+17	300	7550488222279066	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week10/Exercise2.cpp.obj	cb67d0017c132605
+36	378	7550502821451351	build.ninja	bc30250f4b0f7822
+18	301	7550502823263759	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week10/Exercise3.cpp.obj	b5ca0525896633f8
+301	376	7550502826092054	IntroductionToProgrammingWeeklyExercises.exe	d1b4e86f01826b50
+37	321	7550503269745104	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week10/Exercise3.cpp.obj	b5ca0525896633f8
+321	380	7550503272584330	IntroductionToProgrammingWeeklyExercises.exe	d1b4e86f01826b50
