@@ -1,8 +1,16 @@
 # ninja log v6
-28	311	7554780127968191	build.ninja	bc30250f4b0f7822
+22	544	7576353443114798	build.ninja	bc30250f4b0f7822
 32	357	7550486909188599	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week10/Exercise1.cpp.obj	86a8ae8e9b221a20
-500	562	7554779633345681	IntroductionToProgrammingWeeklyExercises.exe	b8e89f61fd8fb69f
-4	500	7554779628380081	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week06/Exercise1.cpp.obj	b6c8ed94325daed
+20	82	7561610338266597	IntroductionToProgrammingWeeklyExercises.exe	b8e89f61fd8fb69f
+46	773	7561610212087099	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week06/Exercise2.cpp.obj	bf90bd3510195f90
+34	2307	7561610211967067	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week06/Exercise1.cpp.obj	b6c8ed94325daed
 17	300	7550488222279066	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week10/Exercise2.cpp.obj	cb67d0017c132605
 37	321	7550503269745104	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week10/Exercise3.cpp.obj	b5ca0525896633f8
 33	312	7554766710483689	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week09/Exercise1.cpp.obj	c5d07e7934476aa2
+35	351	7576353443114798	build.ninja	bc30250f4b0f7822
+19	75	7576353444742350	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/trysmthng.cpp.obj	f5b5691665fc71f1
+75	167	7576353445317599	IntroductionToProgrammingWeeklyExercises.exe	c8e229be8764117f
+39	97	7576353510277021	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/trysmthng.cpp.obj	f5b5691665fc71f1
+98	154	7576353510866914	IntroductionToProgrammingWeeklyExercises.exe	c8e229be8764117f
+43	105	7576353600804898	CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/trysmthng.cpp.obj	f5b5691665fc71f1
+105	168	7576353601415512	IntroductionToProgrammingWeeklyExercises.exe	c8e229be8764117f

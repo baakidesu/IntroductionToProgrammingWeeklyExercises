@@ -49,17 +49,11 @@ cmake_ninja_workdir = C$:/Users/Burki/CLionProjects/IntroductionToProgrammingWee
 
 build cmake_object_order_depends_target_IntroductionToProgrammingWeeklyExercises: phony || .
 
-build CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week06/Exercise1.cpp.obj: CXX_COMPILER__IntroductionToProgrammingWeeklyExercises_unscanned_Debug C$:/Users/Burki/CLionProjects/IntroductionToProgrammingWeeklyExercises/Week06/Exercise1.cpp || cmake_object_order_depends_target_IntroductionToProgrammingWeeklyExercises
-  DEP_FILE = CMakeFiles\IntroductionToProgrammingWeeklyExercises.dir\Week06\Exercise1.cpp.obj.d
+build CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/trysmthng.cpp.obj: CXX_COMPILER__IntroductionToProgrammingWeeklyExercises_unscanned_Debug C$:/Users/Burki/CLionProjects/IntroductionToProgrammingWeeklyExercises/trysmthng.cpp || cmake_object_order_depends_target_IntroductionToProgrammingWeeklyExercises
+  DEP_FILE = CMakeFiles\IntroductionToProgrammingWeeklyExercises.dir\trysmthng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\IntroductionToProgrammingWeeklyExercises.dir
-  OBJECT_FILE_DIR = CMakeFiles\IntroductionToProgrammingWeeklyExercises.dir\Week06
-
-build CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week06/Exercise2.cpp.obj: CXX_COMPILER__IntroductionToProgrammingWeeklyExercises_unscanned_Debug C$:/Users/Burki/CLionProjects/IntroductionToProgrammingWeeklyExercises/Week06/Exercise2.cpp || cmake_object_order_depends_target_IntroductionToProgrammingWeeklyExercises
-  DEP_FILE = CMakeFiles\IntroductionToProgrammingWeeklyExercises.dir\Week06\Exercise2.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\IntroductionToProgrammingWeeklyExercises.dir
-  OBJECT_FILE_DIR = CMakeFiles\IntroductionToProgrammingWeeklyExercises.dir\Week06
+  OBJECT_FILE_DIR = CMakeFiles\IntroductionToProgrammingWeeklyExercises.dir
 
 
 # =============================================================================
@@ -69,7 +63,7 @@ build CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week06/Exercise2.c
 #############################################
 # Link the executable IntroductionToProgrammingWeeklyExercises.exe
 
-build IntroductionToProgrammingWeeklyExercises.exe: CXX_EXECUTABLE_LINKER__IntroductionToProgrammingWeeklyExercises_Debug CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week06/Exercise1.cpp.obj CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/Week06/Exercise2.cpp.obj
+build IntroductionToProgrammingWeeklyExercises.exe: CXX_EXECUTABLE_LINKER__IntroductionToProgrammingWeeklyExercises_Debug CMakeFiles/IntroductionToProgrammingWeeklyExercises.dir/trysmthng.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\IntroductionToProgrammingWeeklyExercises.dir
