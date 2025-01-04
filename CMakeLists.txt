@@ -4,7 +4,8 @@ project(IntroductionToProgrammingWeeklyExercises)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(IntroductionToProgrammingWeeklyExercises
-        trysmthng.cpp
+
+        FinalExercise.cpp
 )
 
 
