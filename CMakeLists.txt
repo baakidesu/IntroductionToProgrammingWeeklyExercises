@@ -5,7 +5,10 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(IntroductionToProgrammingWeeklyExercises
 
-        FinalExercise.cpp
+        Exercises/FinalExercise.cpp
+        Exercises/pointerExercise.cpp
+        Exercises/ptr1.cpp
+        ComputerShutDowner.cpp
 )
 
 
